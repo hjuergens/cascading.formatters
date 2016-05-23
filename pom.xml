@@ -12,7 +12,8 @@
     <name>cascading.formatters</name>
     <url>https://github.com/hjuergens/cascading.formatters</url>
 
-    <description>Class to calculate the season for a given date. It makes heavy use of Meeus' astronomical algorithms.
+    <description>
+        This project provides a util to parse a string using several patterns.
     </description>
 
     <properties>
