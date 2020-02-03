@@ -1,5 +1,4 @@
 package net.sf.hajuergens.format
-package net.sf.hajuergens.format
 
 import java.util.Locale
 import javafx.application.Application
